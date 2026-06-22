@@ -1,4 +1,4 @@
-# Hi there 👋 I'm TaeYoon
+# Hi there 👋 I'm TaeYoon Eom
 
 **"아키텍처 설계부터 DB 최적화까지, 실행으로 가치를 증명하는 풀스택 웹 개발자"**
 

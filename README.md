@@ -2,11 +2,11 @@
 
 ### **문제를 분석하고, 설계와 검증을 통해 해결하는 Backend Developer**
 
-현재는 Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
+Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
 
 단순한 기능 구현에 그치지 않고 **서비스의 책임과 데이터 흐름을 이해하며**, 동시성·데이터 정합성·서비스 간 통신과 같은 백엔드 문제를 해결하는 과정에 관심이 있습니다.
 
-현재는 **MSA, DDD, 이벤트 기반 아키텍처와 대규모 시스템 설계**를 학습하며 안정적이고 확장 가능한 서비스를 설계할 수 있는 개발자로 성장하고 있습니다.
+최근에는 **MSA, DDD, 이벤트 기반 아키텍처와 대규모 시스템 설계**를 학습하며 안정적이고 확장 가능한 서비스를 설계할 수 있는 개발자로 성장하고 있습니다.
 
 ---
 
@@ -21,16 +21,19 @@
 
 ## 🛠 Tech Stacks & Tools
 
-### Languages & Markup
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
+![Ajax](https://img.shields.io/badge/Ajax-005A9C?style=flat-square\&logo=jquery\&logoColor=white)
 
 ### Backend
 

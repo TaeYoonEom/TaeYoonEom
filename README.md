@@ -1,119 +1,128 @@
 # Hi there 👋 I'm TaeYoon Eom
 
-### **문제를 분석하고, 설계와 검증을 통해 해결하는 Backend Developer**
+### Backend Developer | 문제를 분석하고, 설계와 검증을 통해 해결합니다.
 
 Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
 
-단순한 기능 구현에 그치지 않고 **서비스의 책임과 데이터 흐름을 이해하며**, 동시성·데이터 정합성·서비스 간 통신과 같은 백엔드 문제를 해결하는 과정에 관심이 있습니다.
+단순한 기능 구현에 그치지 않고 서비스의 책임과 데이터 흐름을 이해하며, 동시성·데이터 정합성·서비스 간 통신과 같은 백엔드 문제를 해결하는 과정에 관심이 있습니다.
 
-최근에는 **MSA, DDD, 이벤트 기반 아키텍처와 대규모 시스템 설계**를 학습하며 안정적이고 확장 가능한 서비스를 설계할 수 있는 개발자로 성장하고 있습니다.
+최근에는 MSA, DDD, 이벤트 기반 아키텍처와 대규모 시스템 설계를 학습하며 안정적이고 확장 가능한 서비스를 설계할 수 있는 개발자로 성장하고 있습니다.
 
 ---
 
 ## 💡 About Me
 
-* 💪 **강점:** #실행력 #문제해결 #책임감 #협업
-* ☕ **Backend:** Java / Spring Boot 기반 백엔드 개발
-* 🏗️ **Architecture:** MSA · DDD · 이벤트 기반 아키텍처 학습
-* 🗄️ **Interest:** 동시성 제어 · 데이터 정합성 · 대용량 데이터 처리 · 시스템 설계
+- 💪 **Strengths:** #실행력 #문제해결 #책임감 #협업
+- ☕ **Backend:** Java / Spring Boot 기반 백엔드 개발
+- 🏗️ **Architecture:** MSA · DDD · Event-Driven Architecture
+- 🔒 **Core Interests:** 동시성 제어 · 데이터 정합성 · 트랜잭션 설계
+- 📈 **Engineering:** 성능 개선 · 장애 대응 · 테스트 기반 검증
 
 ---
 
 ## 🛠 Tech Stacks & Tools
 
-### Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+Java · Python · C · C++
 
-### Frontend
+**Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-005A9C?style=flat-square\&logo=jquery\&logoColor=white)
+JavaScript · HTML5 · CSS3 · Ajax
 
-### Backend
+**Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+Spring Boot · Spring · Spring Security · JPA · Django
 
-### Database & Infrastructure
+**Database & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+PostgreSQL · MariaDB · MySQL · Redis · Docker · Nginx
 
-### MSA & Messaging
+**MSA & Messaging**
 
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+Spring Cloud · OpenFeign · Apache Kafka · RabbitMQ
 
-### Tools & Collaboration
+**Tools & Collaboration**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+Git · GitHub · IntelliJ IDEA · VS Code
 
 ---
 
 ## 🚀 Projects
 
+### 📈 AI 기반 주식 자동매매 플랫폼
+**MSA 기반 자동매매 및 운영 플랫폼**
+
+Trading 도메인 개발 및 자동매매 주문 처리의 데이터 정합성 확보
+
+- 동일 AutoTrading에 대한 동시 Signal 처리 시 중복 주문 방지
+- 비관적 락과 PostgreSQL Partial Unique Index를 통한 동시성 제어
+- 증권사 API Timeout에 따른 주문 미확정 상태 및 체결 조회 기반 보정 설계
+- Kafka 기반 이벤트 처리 및 서비스 간 비동기 통신
+
+`Java` `Spring Boot` `Spring Cloud` `JPA` `PostgreSQL` `Kafka` `Redis`
+
 ### 🚚 Smart Logistics Platform
+**MSA 기반 B2B 물류·배송 관리 플랫폼**
 
-> **MSA 기반 B2B 물류·배송 관리 플랫폼**
+6인 팀 프로젝트 | Delivery Service 설계 및 구현
 
-* Delivery Service 개발, 배송 상태 전이 및 담당자 Round-Robin 배정·동시성 제어
-* **Java · Spring Boot · Spring Cloud · JPA · PostgreSQL · OpenFeign · Docker**
+- 배송 상태 전이 및 담당자 Round-Robin 배정
+- 비관적 락과 DB 제약을 통한 중복 배정 방지
+- 외부 API 호출과 DB 트랜잭션 책임 분리
+- 배송 수정 API 평균 응답시간 850ms → 320ms 개선
+
+`Java` `Spring Boot` `Spring Cloud` `JPA` `PostgreSQL` `OpenFeign` `Docker`
 
 ### 🛵 Delivery Platform
+**AI 메뉴 설명 생성을 접목한 모놀리식 배달 플랫폼**
 
-> **AI 메뉴 설명 생성을 접목한 모놀리식 배달 플랫폼**
+- 지역 및 배송지 도메인 개발
+- PESSIMISTIC_WRITE 기반 기본 배송지 동시성 문제 해결
+- 사용자 인증 및 배송지 관리 기능 구현
 
-* 지역·배송지 도메인 개발 및 PESSIMISTIC_WRITE 기반 기본 배송지 동시성 문제 해결
-* **Java · Spring Boot · Spring Security · JPA · PostgreSQL · Redis · JWT**
+`Java` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Redis` `JWT`
 
 ### 📚 ITRT
+**국제 학술 논문 검색 및 연구 동향 분석 서비스 (Capstone)**
 
-> **국제 학술 논문 검색 및 연구 동향 분석 서비스 (Capstone)**
+- 논문 검색 및 연구 동향 분석 기능 개발
+- NLP·BERT 기반 논문 데이터 처리
+- KeyBERT 및 LLaMA를 활용한 키워드 분석 기능 구현
 
-* 논문 검색·연구 동향 분석 및 NLP·AI 기반 데이터 처리 기능 개발
-* **Django · MariaDB · NLP · BERT · KeyBERT · LLaMA · Nginx**
+`Django` `MariaDB` `NLP` `BERT` `KeyBERT` `LLaMA` `Nginx`
 
 ### 🚗 Used Car Platform
+**중고차 검색·조회·판매 웹 서비스**
 
-> **중고차 검색·조회·판매 웹 서비스**
+- 차량 검색 및 판매 등록
+- 사고 및 보험 이력 조회
+- 마이페이지 기능 개발
 
-* 차량 검색·판매 등록·사고 및 보험 이력·마이페이지 기능 개발
-* **Java · Spring Boot · MariaDB · JavaScript**
+`Java` `Spring Boot` `MariaDB` `JavaScript`
 
 ### 📅 Planit
+**개인 일정 관리 웹 애플리케이션**
 
-> **개인 일정 관리 웹 애플리케이션**
-
-* 개인 일정 관리 기능을 구현하며 웹 애플리케이션의 기본 CRUD 학습
+- 개인 일정 관리 기능 구현
+- 웹 애플리케이션의 기본 CRUD 및 백엔드 개발 학습
 
 ---
 
 ## 📖 Currently Learning
 
-**대규모 AI 시스템 설계를 위한 백엔드 아키텍처 심화 과정**을 수강하고 있습니다.
+대규모 AI 시스템 설계를 위한 백엔드 아키텍처 심화 과정을 수강하고 있습니다.
 
-`Spring Boot` · `MSA` · `DDD` · `Kafka / RabbitMQ` · `Redis` · `Concurrency` · `Distributed Systems` · `Large-scale System Design`
+- Spring Boot · MSA · DDD
+- Apache Kafka · RabbitMQ · Redis
+- Concurrency Control · Distributed Systems
+- Transaction Management · System Design
+- Large-scale Backend Architecture
 
 ---
 
 ## 🌱 Growing as a Backend Developer
 
-**왜 이 기술을 사용하는지 이해하고,
-문제를 발견하고, 설계하고, 구현한 뒤 검증할 수 있는 개발자**를 목표로 성장하고 있습니다.
+왜 이 기술을 사용하는지 이해하고, 문제를 발견하고, 설계하고, 구현한 뒤 검증할 수 있는 개발자를 목표로 성장하고 있습니다.
+
+**기능의 완성뿐 아니라 데이터의 정합성과 시스템의 안정성까지 책임지는 백엔드 개발자가 되겠습니다.**

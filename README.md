@@ -92,7 +92,7 @@ Kafka Signal 기반 주문 생성과 KIS 주문·체결 연동을 담당했습�
 
 `Java` `Spring Boot` `Spring Cloud` `JPA` `QueryDSL` `PostgreSQL` `Flyway` `Feign` `Testcontainers` `Docker` `Zipkin`
 
-### 📚 국제 저명학술지 연구 동향 분석 시스템 (졸업 작품)
+### 📚 [국제 저명학술지 연구 동향 분석 시스템 (졸업 작품)](https://github.com/TaeYoonEom/Capstone)
 
 2024.12 - 2025.12 | 3인 팀
 
@@ -104,7 +104,7 @@ Kafka Signal 기반 주문 생성과 KIS 주문·체결 연동을 담당했습�
 
 `Python` `Django` `MariaDB` `BERT` `KeyBERT` `TF-IDF` `LLaMA` `Nginx` `Gunicorn`
 
-### 🚗 중고차 거래 플랫폼 클론
+### 🚗 [중고차 거래 플랫폼 클론](https://github.com/TaeYoonEom/carproject)
 
 2025.06 - 2025.12 | 3인 팀 | Full-stack
 

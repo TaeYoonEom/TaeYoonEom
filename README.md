@@ -31,21 +31,29 @@ Java와 Spring Boot를 중심으로 MSA 기반 서비스를 개발하며, Race C
 
 ## 🛠 Tech Stacks & Tools
 
+**Languages**
+
+Java · Python · C · C++
+
+**Frontend**
+
+JavaScript · HTML5 · CSS3 · Ajax
+
 **Backend**
 
-Java · Python · Spring · Spring Boot · JPA · Django
+Spring Boot · Spring · Spring Security · JPA · Django
 
-**Database**
+**Database & Infrastructure**
 
-PostgreSQL · MySQL · MariaDB · Redis · SQL
+PostgreSQL · MariaDB · MySQL · Redis · Docker · Nginx
 
-**Architecture / Messaging**
+**MSA & Messaging**
 
-MSA · Spring Cloud · Kafka · RabbitMQ
+Spring Cloud · OpenFeign · Apache Kafka · RabbitMQ
 
-**Tools / Infra**
+**Tools & Collaboration**
 
-Docker · Git · GitHub · IntelliJ · VS Code
+Git · GitHub · IntelliJ IDEA · VS Code
 
 ---
 
